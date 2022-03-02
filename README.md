@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  ### Hello 👋, I`m Kristaps
+  Hello 👋, I`m Kristaps
 </h1>
 
 
