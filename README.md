@@ -17,7 +17,7 @@ or send an e-mail:
 _kristapsrigasts@inbox.lv_.
 
 
-## My Latest Work:
+## :sunny: My latest work:  
 
 ### [Sign-up and Log-in page](https://github.com/KristapsRigasts/register_login) 
 Allows you to sign-up and log- in to the page. Work with mysql database.  
