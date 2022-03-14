@@ -25,8 +25,8 @@ Allows you to sign-up and log- in to the page. Work with mysql database.
 ### [Stock Market](https://github.com/KristapsRigasts/stock_api) 
 App that follows the Stock Market, for monitoring 4 selected companies and searching the ones you select.
 
-### [Person Data Register](https://github.com/KristapsRigasts/register_person_data)
-Allows you to register a person in the database by name, surname and personal ID code.
+### [Friends App](https://github.com/KristapsRigasts/friends_app)
+Web page where you can sign-up, log-in, log-out, create articles (edit, delete, comment and like them). There is also possibility to invite other users to become your friends.
 
 
 
