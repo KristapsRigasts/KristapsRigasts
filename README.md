@@ -12,9 +12,7 @@
 
 Contact me on <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="10">
 [LinkedIn](https://www.linkedin.com/in/kristapsrigasts/)
-or send an e-mail:
-
-_kristapsrigasts@gmail.com_
+or send an e-mail: kristapsrigasts@gmail.com
 
 
 ## :sunny: My latest work:  
