@@ -13,8 +13,8 @@
 Contact me on <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="10">
 [LinkedIn](https://www.linkedin.com/in/kristapsrigasts/)
 or send an e-mail:
-<img src="https://company.inbox.lv/files/2012/03/inbox.lv-520x275.jpg" width="10">
-_kristapsrigasts@inbox.lv_.
+
+_kristapsrigasts@gmail.com_
 
 
 ## :sunny: My latest work:  
